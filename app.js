@@ -127,7 +127,7 @@ function automated() {
 function stopAutomated() {
     clearTimeout(t);
 }
-// automated();
+automated();
 
 
 //popup section 
